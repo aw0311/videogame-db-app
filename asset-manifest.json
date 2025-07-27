@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/videogame-db-app/static/css/main.198f5470.css",
+    "main.js": "/videogame-db-app/static/js/main.21fcb1dc.js",
+    "static/js/453.11f63a72.chunk.js": "/videogame-db-app/static/js/453.11f63a72.chunk.js",
+    "index.html": "/videogame-db-app/index.html",
+    "main.198f5470.css.map": "/videogame-db-app/static/css/main.198f5470.css.map",
+    "main.21fcb1dc.js.map": "/videogame-db-app/static/js/main.21fcb1dc.js.map",
+    "453.11f63a72.chunk.js.map": "/videogame-db-app/static/js/453.11f63a72.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.198f5470.css",
+    "static/js/main.21fcb1dc.js"
+  ]
+}
